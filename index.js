@@ -1,0 +1,1 @@
+console.log("fs or readline 부터 시작")
